@@ -40,3 +40,18 @@
 ### Issues Faced
 - None
 
+## 22:59
+
+### Features Added
+- Implemented weather scoring logic based on route-wise weather conditions
+- Implemented route/delay scoring logic using predefined route experience mapping
+- Designed functions to calculate maximum risk factor across route segments
+
+### Files Modified
+- backend/utils/weather.py
+- backend/utils/delay.py
+- CHANGELOG.md
+
+### Issues Faced
+- Needed to handle default values for missing weather data and route segments
+
