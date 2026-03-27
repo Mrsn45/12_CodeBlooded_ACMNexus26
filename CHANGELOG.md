@@ -33,6 +33,7 @@
 
 ### Features Added
 - Created initial project folders for frontend and backend
+- Attached the image of files created
 
 ### Files Modified
 - CHANGELOG.md
