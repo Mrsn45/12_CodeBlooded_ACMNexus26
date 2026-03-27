@@ -73,3 +73,17 @@
 ### Issues Faced
 - Warning related to feature names mismatch in sklearn model during prediction
 
+## 23:33
+
+### Features Added
+- Implemented core prediction pipeline integrating weather, traffic, historical delay, and distance modules
+- Added route expansion and multi-factor scoring for each route
+- Connected ML model inference to generate final route risk predictions
+
+### Files Modified
+- backend/run_pipeline.py (or wherever this file is)
+- CHANGELOG.md
+
+### Issues Faced
+- Ensuring consistent data flow between multiple scoring modules
+
