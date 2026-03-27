@@ -27,4 +27,15 @@
 - template_clique.png
 
 ### Issues Faced
+
+## 19:51
+
+### Features Added
+- Created initial project folders for frontend and backend
+
+### Files Modified
+- CHANGELOG.md
+
+### Issues Faced
+- None
 - Initial remote image download attempt failed, resolved by using provided local files
