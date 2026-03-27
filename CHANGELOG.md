@@ -56,3 +56,22 @@
 ### Issues Faced
 - Needed to handle default values for missing weather data and route segments
 
+## 23:16
+
+### Features Added
+- Trained initial ML model using mock dataset for risk prediction
+- Saved trained model as delay_model.pkl
+- Integrated prediction logic using predict.py
+- Executed test.py to validate model with real-world-like inputs
+- Generated risk scores, risk levels, and route suggestions successfully
+
+### Files Modified
+- backend/train_model.py
+- backend/predict.py
+- backend/test.py
+- backend/delay_model.pkl
+- CHANGELOG.md
+
+### Issues Faced
+- Warning related to feature names mismatch in sklearn model during prediction
+
