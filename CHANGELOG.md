@@ -36,6 +36,7 @@
   
 ### Files Modified
 - CHANGELOG.md
+- README.md
 
 ### Issues Faced
 - None
