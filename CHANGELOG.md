@@ -49,8 +49,6 @@
 - Designed functions to calculate maximum risk factor across route segments
 
 ### Files Modified
-- backend/utils/weather.py
-- backend/utils/delay.py
 - CHANGELOG.md
 
 ### Issues Faced
