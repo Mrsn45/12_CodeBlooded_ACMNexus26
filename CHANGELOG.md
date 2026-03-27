@@ -27,6 +27,7 @@
 - template_clique.png
 
 ### Issues Faced
+- Initial remote image download attempt failed, resolved by using provided local files
 
 ## 19:51
 
@@ -38,4 +39,4 @@
 
 ### Issues Faced
 - None
-- Initial remote image download attempt failed, resolved by using provided local files
+
