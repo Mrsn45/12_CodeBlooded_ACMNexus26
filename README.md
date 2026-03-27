@@ -23,16 +23,16 @@ A **16-hour hackathon** across various domains where innovation meets execution.
 
 ```md
 ### 🏷️ Project Name:
-<Your Project Name>
+RouteGuard - Intelligent Disruption Prediction for Smart Supply Chains
 
 ### 🎯 Chosen Domain:
-<One from the given domains>
+Smart Supply Chains
 
 ### ❗ Problem Statement:
-<What problem are you solving?>
+Supply chain systems face unpredictable disruptions such as traffic congestion, weather issues, and vehicle breakdowns.
 
 ### 💡 Solution:
-<How does your project solve the problem?>
+RouteGuard predicts disruptions in real-time using traffic, weather, and route data, and suggests alternative actions.
 ```
 
 ---
