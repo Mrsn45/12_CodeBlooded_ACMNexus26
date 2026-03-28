@@ -81,7 +81,7 @@
 - Connected ML model inference to generate final route risk predictions
 
 ### Files Modified
-- backend/run_pipeline.py (or wherever this file is)
+- backend/run_pipeline.py
 - CHANGELOG.md
 
 ### Issues Faced
